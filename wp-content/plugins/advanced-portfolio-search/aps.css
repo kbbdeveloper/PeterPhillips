@@ -1,0 +1,177 @@
+/* the container for each project */
+#apsform{
+	background-color:#333;color:#fff;font-size:18px;font-weight:bold;padding:8px;display:inline-block;width:auto;
+}
+.apsinput{
+	font-size:14px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 200;
+	color: rgba(86,86,86,0.7);
+	
+}
+
+.apsbutton {
+  /*display: inline-block;*/
+	width:100%;
+  background-color: #000;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.2s;
+  cursor: pointer;
+	margin-top:10px;
+	border-radius: 3px;
+	
+}
+
+.apsbutton:hover {
+   /* padding: 18px;*/
+}
+
+.apsbutton span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+	font-family: 'Pathway Gothic One', sans-serif !important;
+	font-size: 20px !important;
+	letter-spacing: 1.1px;
+}
+
+.apsbutton span:after {
+  content: "\35";
+	font-family: "ETmodules" !important;
+	font-size: 27px;
+  position: absolute;
+  opacity: 0;
+  top: -2px;
+
+  transition: 0.2s;
+}
+
+.apsbutton:hover span {
+  
+  padding-right: 25px;
+}
+
+.apsbutton:hover span:after {
+  opacity: 1;
+  /*right: 0;*/
+}
+
+#findworkbutton {
+	background-color:#333;
+	color:#fff;
+	padding:5px;
+}
+
+#apsform.formhidden{
+	display:none;
+}
+
+/* fix search results layout  */
+@media (min-width: 981px) {
+	#left-area {
+    	width: 100% !important;
+	}
+}
+
+/* hide duplicate results on search and single results*/
+.search .et_pb_post{
+	/* display:none !important; */
+	margin-bottom:0 !important;
+}
+
+.search .et_pb_post h2{
+	 display:none !important; 
+}
+
+
+
+.search #left-area {
+    width: 100% !important;
+}
+
+article .post-meta, article .post_meta {
+ display:none !important; 
+}
+
+/* hide post date on search   */
+.search  .post-date{
+	display:none !important; 
+}
+
+/* hide News Archive from  search results */
+.search #news-right{
+	 display:none; 
+}
+/* hide the top title from the search page */
+.search #news-left .post-title{
+	 display:none; 
+}
+
+
+/* hide post date on  single results  */
+.single-work .post-date{
+	display:none !important; 
+}
+
+/* hide News Archive from  single results */
+ .single-work #news-container {
+	 display:none !important; 
+}
+
+/* hide News Archive from pages */
+.page-template-default #news-container {
+	 display:none; 
+}
+
+
+.workarchive {
+ display:inline-block;
+ float:left;
+ margin:0px 26px 20px 0px;
+ width: 25%;
+}
+
+/* mobile search results */
+@media (max-width: 800px) {
+	.workarchive {
+		width: 50%;
+	}
+}
+
+@media (max-width: 400px) {
+	.workarchive {
+		width: 100%;
+	}
+}
+
+.workpost {
+    text-align: center;
+}
+
+.et_right_sidebar #left-area {
+    float: none !important;  
+    padding-right:0 !important;  
+    text-align: center !important; 
+}
+
+.single-work .et_right_sidebar #left-area {
+    float: none !important;  
+    padding-right:0 !important;  
+    text-align: center !important; 
+}
+
+
+
+.logos {
+	height:50px;
+	width:auto;
+}
+
+.pre{
+	font-family:courier;
+	background-color:#fff;
+}

@@ -1,0 +1,16 @@
+== Changelog ==
+
+= 1.0.2 =
+Release Date: May 3rd, 2017
+
+* [Fixed] Added message when pods fields are empty
+
+= 1.0.1 =
+Release Date: April 25th, 2017
+
+* [Important] Only compatible with Admin Columns Pro 4.0.3
+
+= 1.0 =
+Release Date: April 4th, 2017
+
+* [Added] Initial release of the Pods add-on, works with Admin Columns version 4.0 and higher

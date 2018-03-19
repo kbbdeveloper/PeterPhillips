@@ -1,0 +1,30 @@
+/* Typography */
+
+h1, h2, h3, h4, h5 { 
+
+font-family: 'Pathway Gothic One', sans-serif;
+letter-spacing: 1px;
+
+}
+
+p { 
+
+font-family: 'Pathway Gothic One', sans-serif;
+font-size: 14px;
+letter-spacing: 1.1px;
+/*font-family: ' alternate-gothic-no-3-d', sans-serif;;
+font-style: normal;
+font-weight: light;*/
+}
+
+#top-menu { 
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-style: bold;
+}
+
+body {
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 16px;
+	letter-spacing: .9px;
+
+}

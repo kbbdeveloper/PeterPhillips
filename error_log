@@ -1,0 +1,312 @@
+[22-Aug-2017 02:54:52 UTC] PHP Parse error:  syntax error, unexpected ''<style>.apsinput{font-size:12' (T_ENCAPSED_AND_WHITESPACE) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/advanced-portfolio-search.php on line 102
+[22-Aug-2017 03:59:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/advanced-portfolio-search.php on line 107
+[22-Aug-2017 03:59:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/advanced-portfolio-search.php on line 107
+[23-Aug-2017 00:55:38 UTC] PHP Parse error:  syntax error, unexpected ''<style>' (T_CONSTANT_ENCAPSED_STRING) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 82
+[23-Aug-2017 02:04:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php:37) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/functions.php on line 1306
+[23-Aug-2017 02:04:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php:37) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/functions.php on line 1306
+[23-Aug-2017 02:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php:37) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/functions.php on line 1306
+[23-Aug-2017 02:13:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 103
+[23-Aug-2017 18:00:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 31
+[23-Aug-2017 18:04:39 UTC] PHP Warning:  Illegal string offset 'adv_portfolio_search' in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/search.php on line 17
+[23-Aug-2017 18:06:52 UTC] PHP Warning:  Illegal string offset 'adv_portfolio_search' in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/search.php on line 17
+[23-Aug-2017 18:12:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 112
+[23-Aug-2017 18:44:43 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 103
+[24-Aug-2017 00:12:07 UTC] PHP Fatal error:  Cannot use object of type WP_Query as array in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 51
+[30-Aug-2017 05:13:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[30-Aug-2017 05:13:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[30-Aug-2017 05:14:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[30-Aug-2017 05:16:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[30-Aug-2017 05:16:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[30-Aug-2017 05:17:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[30-Aug-2017 05:18:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/functions.php on line 1
+[04-Sep-2017 21:36:30 UTC] PHP Warning:  require(/home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/random_compat/random.php): failed to open stream: No such file or directory in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/compat.php on line 435
+[04-Sep-2017 21:36:30 UTC] PHP Fatal error:  require(): Failed opening required '/home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/random_compat/random.php' (include_path='.:/opt/php56/lib/php') in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-includes/compat.php on line 435
+[29-Nov-2017 02:05:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/Divi/single.php on line 87
+[29-Nov-2017 02:06:38 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/Divi/single.php on line 87
+[29-Nov-2017 03:11:47 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/Divi/single.php on line 87
+[30-Nov-2017 02:33:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:33:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:33:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:33:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:33:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:36:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:36:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:36:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:36:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[30-Nov-2017 02:36:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') limit 5' at line 1 for query SELECT wp_posts.post_title, wp_posts.ID  FROM wp_posts WHERE) limit 5 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/single.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Module_Sidebar->shortcode_callback, dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, wprpe->widget, wprpe->get_wprpe_content, wprpe->category_get_posts
+[06-Dec-2017 15:06:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/themes/pp2017-child-theme/single.php on line 108
+[09-Dec-2017 14:30:22 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2017 14:30:37 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2017 14:30:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2017 22:46:09 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/wp-content/plugins/advanced-portfolio-search/function_aps_search.php on line 127
+[09-Dec-2017 20:22:13 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Dec-2017 16:42:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'Connection' (T_STRING) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/testconnection.php on line 2
+[13-Dec-2017 16:42:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'Connection' (T_STRING) in /home3/kbbdeveloper/peterphillips.kbbdeveloper.com/testconnection.php on line 2
+[14-Dec-2017 01:53:24 UTC] WordPress database error Unknown column 't.work_year' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY t.work_year ASC, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 01:54:26 UTC] WordPress database error Unknown column 't.work_year' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`work_year` ASC, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 02:46:08 UTC] WordPress database error Unknown column 't.work_name' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY t.work_name, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 02:47:27 UTC] WordPress database error Unknown column 't.work_name' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`work_name`, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 02:48:57 UTC] WordPress database error Unknown column 'work_name' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY work_name ASC, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 02:49:39 UTC] WordPress database error Unknown column 'work_name' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `work_name`, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 02:50:15 UTC] WordPress database error Unknown column 'work_name' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `work_name`, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 02:50:36 UTC] WordPress database error Unknown column 'work_year' in 'order clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                WHERE ( ( `category`.`name`='50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `work_year`, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[14-Dec-2017 20:06:31 UTC] WordPress database error Unknown column '1990s' in 'where clause' for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                    LEFT JOIN `wp_term_relationships` AS `rel_category` ON
+                        `rel_category`.`object_id` = `t`.`ID`
+
+                    LEFT JOIN `wp_term_taxonomy` AS `rel_tt_category` ON
+                        `rel_tt_category`.`taxonomy` = 'category'
+                        AND `rel_tt_category`.`term_taxonomy_id` = `rel_category`.`term_taxonomy_id`
+
+                    LEFT JOIN `wp_terms` AS `category` ON
+                        `category`.`term_id` = `rel_tt_category`.`term_id`
+                
+                
+                    LEFT JOIN `wp_postmeta` AS `work_year` ON
+                        `work_year`.`meta_key` = 'work_year'
+                        AND `work_year`.`post_id` = `t`.`ID`
+                
+                WHERE ( ( `category`.`name`=1990s ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `work_year`.`meta_value` ASC, `t`.`menu_order`, `t`.`post_title`, `t`.`post_date` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[05-Jan-2018 14:02:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 14:04:52 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 14:06:48 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 14:09:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Jan-2018 14:20:36 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[20-Jan-2018 18:32:01 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) )' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name='Featured 2000's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[20-Jan-2018 18:34:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) )' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name='Featured 2000's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[20-Jan-2018 18:35:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) )' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name='Featured-2000's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[20-Jan-2018 18:35:35 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) )' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name='Featured-2000's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[20-Jan-2018 18:37:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) )' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name='Featured-2000's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[20-Jan-2018 18:38:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) )' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name='Featured-2000's' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[20-Jan-2018 18:53:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publis' at line 7 for query SELECT
+                
+                DISTINCT
+                `t`.*
+                FROM `wp_posts` AS `t`
+                
+                WHERE ( ( category.name=''50s-60s' ) AND ( `t`.`post_type` = "work" ) AND ( `t`.`post_status` IN ( "publish" ) ) )
+                
+                
+                ORDER BY `t`.`menu_order`, `t`.`post_title`, `t`.`post_date`
+                LIMIT 0, 15 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/Divi/page.php'), the_content, apply_filters('the_content'), WP_Hook->apply_filters, call_user_func_array, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Section->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Row->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, ET_Builder_Column->shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, ET_Builder_Element->_shortcode_callback, do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, pods_shortcode, Pods->find, PodsData->select, pods_query, PodsData::query
+[11-Feb-2018 20:26:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
